@@ -5,7 +5,7 @@ Getting eclipse box tab styles
 
  * First load the eclipse in a workspace.
  * Install moonrise theme using Eclipse Marketplace.
- * Go to the Window -> Preferences -> Appearance -> Uncheck the Enable theming check box
+ * Go to Window -> Preferences -> Appearance and uncheck the Enable theming check box
  * Exist the eclipse.
  * Then go to the workspace -> .metadata -> .plugins -> org.eclipse.core.runtime -> .settings folder and replace the given 2 .prefs files.
  * Start the eclipse. Enjoy!
